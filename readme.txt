@@ -1,2 +1,2 @@
-Bar Ashkenazi 313233181	
-Gal Sweed 208456467
+This project is Pacman game.
+Written by Bar Ashkenazi and Gal Sweed 
