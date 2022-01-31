@@ -1,0 +1,10 @@
+Step file:
+line to fruit appearance/disappearance
+if its appearance, line for the location(x,y), and line for the value of the fruit.
+line for creature move, name of creature and the direction of the move.
+each step is in sepetare line.
+
+Result file:
+died - the point of time the pacman lose life.
+lose - the point of time the pacman lose the game, lose all lifes.
+finish - the point of time the pacman win the screen.
